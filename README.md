@@ -1,8 +1,8 @@
-# Defa Factory
+# DeFa Factory
 
 [![Actions Status](https://github.com/defaswap/defa-swap-core/workflows/CI/badge.svg)](https://github.com/defaswap/defa-swap-core/actions)
 
-In-depth documentation on Defa is available at [docs.defa.finance](https://docs.defa.finance/).
+In-depth documentation on DeFa is available at [docs.defa.finance](https://docs.defa.finance/).
 
 # Local Development
 
