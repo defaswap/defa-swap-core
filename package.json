@@ -1,5 +1,5 @@
 {
-  "name": "@defaswap-libs/defa-swap-core",
+  "name": "@defaswap/defa-swap-core",
   "description": "🎛 Core contracts for the defa protocol",
   "version": "0.1.0",
   "homepage": "https://defa.finance",
